@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Comme:wght@100&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+}
+
+.banner-header {
+    /* max-width: 80%; */
+}
+
+.banner {
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("images/Banner\ Image.png");
+    /* background-repeat: no-repeat; */
+    background-size: cover;    
+    width: 100%;
+    /* display: flex; */
+    height: 100vh;
+    margin: 50px 140px;
+    border-radius: 16px;
+
+}
+
+.header-title {
+    color: #FFF;
+    text-align: center;
+    align-items: center;
+    /* margin: 177px 344px; */
+}
+
+.header-title h2 {
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+}
+
+.header-title p {
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 16px;
+}
+
+.section-des {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    line-height: normal;
+}
+
+.section-des h1 {
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 48px;
+
+}
+
+.section-des h3 {
+    color: #070211;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+}
+.section-des P {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    
+}
